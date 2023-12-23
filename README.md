@@ -1,2 +1,2 @@
 # upiter
-it's a start-up project centered around finding drug replacements
+Unified Pills Terminal is a startup-project centered around drug replacement. For more info check bio.
